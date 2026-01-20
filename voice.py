@@ -15,7 +15,7 @@ def voice_speaker(text) :
         }
     }
     headers = {
-        "xi-api-key": "2eca0c0989bbee44e24ac2a233df7bbc",
+        "xi-api-key": "",
         "Content-Type": "application/json"
     }
 
